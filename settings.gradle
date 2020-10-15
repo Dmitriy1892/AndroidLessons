@@ -1,3 +1,6 @@
+include ':p0081viewbyld'
+include ':p0072layoutprop'
+include ':p0061layouts'
 include ':p0051layoutfiles'
 include ':p004basicviews'
 include ':p003firstproject'
