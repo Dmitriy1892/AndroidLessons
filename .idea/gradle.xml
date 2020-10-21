@@ -46,6 +46,14 @@
             <option value="$PROJECT_DIR$/p0361sqlitequery" />
             <option value="$PROJECT_DIR$/p0371sqliteinnerjoin" />
             <option value="$PROJECT_DIR$/p0381sqlitetransaction" />
+            <option value="$PROJECT_DIR$/p0391sqliteonupgradedb" />
+            <option value="$PROJECT_DIR$/p0401layoutinflater" />
+            <option value="$PROJECT_DIR$/p0411layoutinflaterlist" />
+            <option value="$PROJECT_DIR$/p0421simplelist" />
+            <option value="$PROJECT_DIR$/p0431simplelistchoise" />
+            <option value="$PROJECT_DIR$/p0441simplelistevent" />
+            <option value="$PROJECT_DIR$/p0451expanablelist" />
+            <option value="$PROJECT_DIR$/p0451expandablelist" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
