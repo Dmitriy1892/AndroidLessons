@@ -63,6 +63,13 @@
             <option value="$PROJECT_DIR$/p0531simplecursortreeadapter" />
             <option value="$PROJECT_DIR$/p0541customadapter" />
             <option value="$PROJECT_DIR$/p0551headerfooter" />
+            <option value="$PROJECT_DIR$/p0561spinner" />
+            <option value="$PROJECT_DIR$/p0571gridview" />
+            <option value="$PROJECT_DIR$/p0581timepickerdialog" />
+            <option value="$PROJECT_DIR$/p0591datepickerdialog" />
+            <option value="$PROJECT_DIR$/p0601alertdialogsimple" />
+            <option value="$PROJECT_DIR$/p0611alertdialogprepare" />
+            <option value="$PROJECT_DIR$/p0621alertdialog" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
