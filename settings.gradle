@@ -1,3 +1,5 @@
+include ':p0931servicestop'
+include ':p0921servicesimple'
 include ':p0911asynctaskrotate'
 include ':p0901asynctaskstatus'
 include ':p0891asynctaskcancel'
