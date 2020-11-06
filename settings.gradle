@@ -1,3 +1,6 @@
+include ':p0911asynctaskrotate'
+include ':p0901asynctaskstatus'
+include ':p0891asynctaskcancel'
 include ':p0881asynctaskresult'
 include ':p0871asynctaskparams'
 include ':p0861asynctask'
