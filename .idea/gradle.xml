@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/000test" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p003firstproject" />
             <option value="$PROJECT_DIR$/p004basicviews" />
@@ -99,6 +100,8 @@
             <option value="$PROJECT_DIR$/p0911asynctaskrotate" />
             <option value="$PROJECT_DIR$/p0921servicesimple" />
             <option value="$PROJECT_DIR$/p0931servicestop" />
+            <option value="$PROJECT_DIR$/p0941servicekillclient" />
+            <option value="$PROJECT_DIR$/p0942servicekillserver" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

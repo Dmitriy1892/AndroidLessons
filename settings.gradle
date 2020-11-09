@@ -1,3 +1,6 @@
+include ':000test'
+include ':p0942servicekillserver'
+include ':p0941servicekillclient'
 include ':p0931servicestop'
 include ':p0921servicesimple'
 include ':p0911asynctaskrotate'
