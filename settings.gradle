@@ -1,3 +1,6 @@
+include ':p1011contentprovider'
+include ':p0981servicebindinglocal'
+include ':p0971servicebindclient'
 include ':p0961servicebackbroadcast'
 include ':p0951servicebackpendingintent'
 include ':000test'
