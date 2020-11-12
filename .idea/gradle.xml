@@ -107,6 +107,15 @@
             <option value="$PROJECT_DIR$/p0971servicebindclient" />
             <option value="$PROJECT_DIR$/p0981servicebindinglocal" />
             <option value="$PROJECT_DIR$/p1011contentprovider" />
+            <option value="$PROJECT_DIR$/p1021touch" />
+            <option value="$PROJECT_DIR$/p1031multitouch" />
+            <option value="$PROJECT_DIR$/p1041fragmentlifecycle" />
+            <option value="$PROJECT_DIR$/p1051fragmentdynamic" />
+            <option value="$PROJECT_DIR$/p1061fragmentactivity" />
+            <option value="$PROJECT_DIR$/p1071actionbaritems" />
+            <option value="$PROJECT_DIR$/p1081actionbarnavigation" />
+            <option value="$PROJECT_DIR$/p1091listfragment" />
+            <option value="$PROJECT_DIR$/p1101dialogfragment" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
