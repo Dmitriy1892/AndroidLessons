@@ -1,3 +1,5 @@
+include ':p1121dynamicactionbar'
+include ':p1111preferencefragment'
 include ':p1101dialogfragment'
 include ':p1091listfragment'
 include ':p1081actionbarnavigation'
