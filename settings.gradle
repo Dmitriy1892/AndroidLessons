@@ -1,3 +1,5 @@
+include ':p1162mngtasks2'
+include ':p1161mngtasks1'
 include ':p1151multiplescreen'
 include ':p1131actionmode'
 include ':p1121dynamicactionbar'

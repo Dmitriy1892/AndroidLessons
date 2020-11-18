@@ -120,6 +120,8 @@
             <option value="$PROJECT_DIR$/p1121dynamicactionbar" />
             <option value="$PROJECT_DIR$/p1131actionmode" />
             <option value="$PROJECT_DIR$/p1151multiplescreen" />
+            <option value="$PROJECT_DIR$/p1161mngtasks1" />
+            <option value="$PROJECT_DIR$/p1162mngtasks2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
