@@ -1,3 +1,5 @@
+include ':p1151multiplescreen'
+include ':p1131actionmode'
 include ':p1121dynamicactionbar'
 include ':p1111preferencefragment'
 include ':p1101dialogfragment'
